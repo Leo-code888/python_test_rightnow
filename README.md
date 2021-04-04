@@ -1,2 +1,1 @@
-# python_test_rightnow
-test01
+## 自动化测试项目的说明文件
